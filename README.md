@@ -3,4 +3,4 @@
 
 # Links
 -[Web連載:　マンガでわかるGit]https://codeiq.jp/magazine/category/git-ai/
--[Twitter @webdesighnManga]https://twitter.com/codeiq/webdesighnManga/
+-[Twitter @webdesignManga]https://twitter.com/codeiq/webdesignManga/
